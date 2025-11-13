@@ -1,4 +1,4 @@
-#ufw basic firrewall configuration
+#UFW BASIC FIREWALL CONFIGURATION
 #OBJECTIVE
 To perform basic firewall configuration using UFW on linux
 1) Allowed shh
@@ -15,3 +15,6 @@ To perform basic firewall configuration using UFW on linux
 #files included 
 'ufw_configurations.sh' scripts to setup firewall
 'README.md=explanation of configuration. 
+#DEMO video link
+
+https://www.linkedin.com/posts/mohammed-ilyas-uddin-47b882363_oasisinfobyte-internship-cybersecurity-activity-7394818632448442369-UxLY?utm_source=share&utm_medium=member_android&rcm=ACoAAFpdKB8B6-6xMz7WydufC1HPvlBzA-BjtnA 
